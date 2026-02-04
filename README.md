@@ -1,1 +1,1 @@
-"# Projects-in-AI-and-ML" 
+Projects in AI and ML
